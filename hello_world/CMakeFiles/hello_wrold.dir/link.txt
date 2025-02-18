@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/hello_wrold.dir/main.cpp.o -o hello_wrold 
