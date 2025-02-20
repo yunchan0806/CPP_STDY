@@ -1,0 +1,3 @@
+/home/yunchan/Cpp/object/CMakeFiles/test.dir
+/home/yunchan/Cpp/object/CMakeFiles/edit_cache.dir
+/home/yunchan/Cpp/object/CMakeFiles/rebuild_cache.dir
